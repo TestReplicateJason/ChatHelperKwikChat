@@ -1,0 +1,40 @@
+{
+    "actions": {
+        "typing": "TYPING",
+        "upload_photo": "UPLOAD_PHOTO",
+        "record_video": "RECORD_VIDEO",
+        "upload_video": "UPLOAD_VIDEO",
+        "record_audio": "RECORD_AUDIO",
+        "upload_audio": "UPLOAD_AUDIO",
+        "upload_document": "UPLOAD_DOCUMENT",
+        "find_location": "FIND_LOCATION",
+        "record_video_note": "RECORD_VIDEO_NOTE",
+        "upload_video_note": "UPLOAD_VIDEO_NOTE",
+        "playing": "PLAYING",
+        "choose_contact": "CHOOSE_CONTACT",
+        "choose_sticker": "CHOOSE_STICKER",
+        "cancel": "CANCEL"
+    },
+    "descriptions": {
+        "typing": "✍️ **Имитирует печать**",
+        "upload_photo": "📸 **Имитирует отправку фото**",
+        "record_video": "🎥 **Имитирует запись видео**",
+        "upload_video": "📹 **Имитирует отправку видео**",
+        "record_audio": "🎙️ **Имитирует запись аудио**",
+        "upload_audio": "🎵 **Имитирует отправку аудио**",
+        "upload_document": "📄 **Имитирует отправку документа**",
+        "find_location": "📍 **Просматривает локацию**",
+        "record_video_note": "🔵 **Имитирует запись кружков**",
+        "upload_video_note": "🔹 **Имитирует отправку кружков**",
+        "playing": "🎮 **Имитирует игру**",
+        "choose_contact": "📇 **Имитирует отправку контакта**",
+        "choose_sticker": "🎨 **Выбирает стикер**",
+        "cancel": "❌ **Отмена действия**"
+    },
+    "auto_enabled": {
+        "status": "Off"
+    },
+    "prefix_ub": {
+        "prefix": "."
+    }
+}
